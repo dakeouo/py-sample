@@ -1,2 +1,5 @@
 .vscode
 *.csv
+build/
+__pycache__
+*.spec
