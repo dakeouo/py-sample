@@ -10,4 +10,5 @@ This is a guess number game which have an User interface
 National Chin-Yi University of Techology Department of Electronic Engineering
 - Student [Person A](mailto:personA@e613.ncut.edu.tw)
 - Student [Person B](mailto:personA@e613.ncut.edu.tw)
+
 Actually, those Email is FACK~XD
